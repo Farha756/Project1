@@ -1,0 +1,23 @@
+body{
+  text-align: center;
+}
+.firstDiv{
+    background-color: black;
+    color: white;
+}
+.threeBoxes{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.po{
+    border: 1px solid#ddd;
+    padding: 10px;
+    width: 200px;
+}
+
+.all{
+    display: flex;
+    flex-direction: row;
+}
